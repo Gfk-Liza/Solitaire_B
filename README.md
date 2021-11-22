@@ -1,3 +1,2 @@
 # Solitaire
-Solitaire
 ソリティア B
