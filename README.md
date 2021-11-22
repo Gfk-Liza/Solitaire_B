@@ -1,2 +1,3 @@
 # Solitaire
 Solitaire
+ソリティア B
